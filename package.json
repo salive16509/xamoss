@@ -1,0 +1,19 @@
+{
+  "name": "xamoss",
+  "version": "1.0.0",
+  "description": "good project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "lamdeogicogi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salive16509/xamoss.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salive16509/xamoss/issues"
+  },
+  "homepage": "https://github.com/salive16509/xamoss#readme"
+}
